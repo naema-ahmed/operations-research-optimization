@@ -37,4 +37,3 @@ In each case, qualitative problem descriptions were translated into decision var
 ## Files
 report/ — full written report including model formulation, results, and interpretation  
 models/ — Excel Solver implementations for each optimization problem  
-figures/ — extra diagrams used for conceptual clarity
